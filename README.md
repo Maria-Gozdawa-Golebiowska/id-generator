@@ -1,6 +1,4 @@
-<h1> Welcome to RandomId-Generator! Feel free to use our application.<h1>
-<br>
-<br>
+<h2> Welcome to RandomId-Generator! Feel free to use our application.<h2>
 <h2>Instalation NPM:</h2>
 <strong>npm install @maria-gozdawa/randomid-generator </strong>
 <br>
